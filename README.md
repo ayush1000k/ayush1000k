@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="mailto:ayush1000k@gmail.com" "> >> Click here to reach me <<</a></p>
+<p align="center"><a href="mailto:ayush1000k@gmail.com" ">ayush1000k@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

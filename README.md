@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Ayush Chaudhary</h1>
+<h2 align="center">Hello, I'm Ayush</h2>
 <h3 align="center">Engineer × Developer </h3>
 
 
 
-<p align="center"><a href="mailto:ayush1000k@gmail.com" ">ayush1000k@gmail.com</a></p>
+<p align="center"><a href="mailto:ayush1000k@gmail.com"> ayush1000k@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

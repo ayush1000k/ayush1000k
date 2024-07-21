@@ -1,14 +1,25 @@
-<h2 align="center">Hello, I'm Ayush</h2>
-<h3 align="center">Interested in Development</h3>
+# AYUSH
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter/X-1da1f2?labelColor=1da1f2&logo=x&logoColor=white&link=https://x.com/ayush1000k)](https://x.com/ayush1000k)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush1000k/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayush1000k@gmail.com)
 
 
 
-<p align="center"><a href="mailto:ayush1000k@gmail.com"> ayush1000k@gmail.com</a></p>
+- Intrested in Web development 
+- 🤔 I’m currently learning [React Js](https://react.dev/). Check it out if interested.
+- 🌱 I have sufficient knowledge of React, JavaScript,  HTML, CSS, C#, .Net, Git etc.
+- 📫 How to reach me: ayush1000k@gmail.com
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ayush1000k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush1000k" height="30" width="40" /></a>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat-square&logo=C-Sharp&color=353535) ![Bootstrap](https://img.shields.io/badge/-.Net-05122A?style=flat-square&logo=.Net&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
+
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).

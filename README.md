@@ -7,7 +7,7 @@
 
 
 
-- Intrested in Web development 
+- Intrested in Web development.
 - 🤔 I’m currently learning [React Js](https://react.dev/). Check it out if interested.
 - 🌱 I have sufficient knowledge of React, JavaScript,  HTML, CSS, C#, Microsoft.Net, Git etc.
 - 📫 How to reach me: ayush1000k@gmail.com

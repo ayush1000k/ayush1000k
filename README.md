@@ -10,6 +10,7 @@
 - Intrested in Web development domain.
 - 🤔 I’m currently diving into [React Js](https://react.dev/). Check it out if interested.
 - 🌱 I have sufficient knowledge of React , JavaScript,  HTML, CSS, C#, Microsoft.Net, Git etc.
+- Flexible to talk during work hours.
 - 📫 How to reach me: ayush1000k@gmail.com
 
 

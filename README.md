@@ -7,11 +7,6 @@
 
 
 
-- 🌱 I have sufficient knowledge of React , JavaScript,  HTML, CSS, C#, Microsoft.Net, Git etc.
-- Flexible to talk during work hours.
-- 📫 How to reach me: ayush1000k@gmail.com
-
-
 
 ### ⚙️ Tech Stack
 

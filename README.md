@@ -1,7 +1,7 @@
 # AYUSH
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter/X-1da1f2?labelColor=1da1f2&logo=x&logoColor=white&link=https://x.com/ayush1000k)](https://x.com/ayush1000k)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush1000k/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayush1000k@gmail.com)
 
